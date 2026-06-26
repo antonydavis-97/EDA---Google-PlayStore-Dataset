@@ -1,6 +1,6 @@
 # Google Play Store Data Analysis (EDA Project)
 
-#Dataset link - https://raw.githubusercontent.com/krishnaik06/Playstore-Dataset/main/googleplaystore.csv
+# Dataset link - https://raw.githubusercontent.com/krishnaik06/Playstore-Dataset/main/googleplaystore.csv
 
 ## Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on the Google Play Store dataset. The goal is to understand trends in apps, categories, ratings, installs, and other key features to extract meaningful insights about the Android app market.
